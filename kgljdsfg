@@ -1,0 +1,16 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex ef524ad..72a89d6 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -7,7 +7,9 @@[m
+ </head>[m
+ <body>[m
+    <h1>Hello Asif changes in verion 1</h1> [m
+[31m-   [m
+[32m+[m[32m   dfsdkjf[m
+[32m+[m[32m   kjsdfsd[m
+[32m+[m[32m   jhgf[m[41m [m
+ [m
+ </body>[m
+ </html>[m
+\ No newline at end of file[m
